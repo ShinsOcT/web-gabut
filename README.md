@@ -8,7 +8,7 @@ I'm an AI Engineer and Software Developer with a passion for building cool proje
 - 🌱 Currently mastering Python, Go, Rust, and more!
 - ⚡ Fun fact: I love solving coding challenges!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leku123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinsOcT&show_icons=true&theme=radical)
 
 
 # Hi there! 👋
